@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm Rafanambinantsoa Karim</h1>
-<h3 align="center">A passionate web developer from Madagascar</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=His+name+is+RAFANAMBINANTSOA;Maminirina+Karim.;I'm+a+passionate+developer;from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
+</div>
 
-<img align="right" alt="kim" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+### 🎊 My contribution :
+<div>  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rafanambinantsoa&theme=github&count_private=true"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafanambinantsoa&label=Profile%20views&color=0e75b6&style=flat" alt="rafanambinantsoa" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafanambinantsoa" alt="rafanambinantsoa" /></a> </p>
+### 🛰️ About Me :
+  <div>I am a web Developer from Madagascar.</div>
+  <ul>
+    <li>🔭 I'm </li>
+    <li>🌱 .</li>
+    <li></li>
+  </ul>
 
-- 🌱 I’m currently learning **Symfony , Laravel**
+---
 
-- 📫 How to reach me **akutagawakarim@gmail.com**
+### 📊 My Stats :
+<div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafanambinantsoa&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" width="422px"  alt=""/>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=KarimShihio&theme=dark" width="418px"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rafanambinantsoa maminirina karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafanambinantsoa maminirina karim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akutagawakarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akutagawakarim" height="30" width="40" /></a>
-</p>
+---
+### 📫 How to reach me :
+<div>
+  <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/ramasama/badges/large">
+     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+  </a>
+  <a href="">
+     <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+### 🥇 Top langage and other :
+<div>
+  <img src="https://streak-stats.demolab.com/?user=Rafanambinantsoa&theme=dark" width="463px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafanambinantsoa&layout=compact&hide_progress=true&theme=dark&count_private=true" width="377px"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafanambinantsoa&show_icons=true&locale=en" alt="rafanambinantsoa" /></p>
+---
+<div align="center">
+  <img src="https://cdn.svgporn.com/logos/php.svg" width="40px"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40px"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/react.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/symfony.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/laravel.svg" width="40px" />
+</div>
+
+---
+<h3 align="center">thanks for visiting 🙂.</h3>
