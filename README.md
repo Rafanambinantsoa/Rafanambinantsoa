@@ -2,10 +2,11 @@
   <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=His+name+is+RAFANAMBINANTSOA;Maminirina+Karim.;I'm+a+passionate+developer;from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
 </div>
 
-### 🎊 My contribution :
+### My involvement 😎😎😎 :
 <div>  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rafanambinantsoa&theme=github&count_private=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&hide_border=true&theme=tokyo-night"/>
 </div>
+
 
 ---
 
