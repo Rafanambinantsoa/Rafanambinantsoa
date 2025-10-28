@@ -11,12 +11,7 @@
 ---
 
 ### 🛰️ About Me :
-  <div>I am a web Developer from Madagascar.</div>
-  <ul>
-    <li>🔭 I'm </li>
-    <li>🌱 .</li>
-    <li></li>
-  </ul>
+  <div>I am a web developer from Madagascar, passionate about building modern, scalable, and user-centered applications.</div> <ul> <li>🔭 I'm currently working on several full-stack projects using <b>Laravel</b>, <b>NestJS</b>, and <b>Flutter</b>.</li> <li>🌱 I’m always learning new technologies — especially <b>API integration</b>, <b>authentication systems</b>, and <b>UI/UX design</b>.</li> <li>🎓 I'm in my 3rd year of <b>Public Relations and Organizational Communication (RPCO)</b>, combining tech with communication skills.</li> <li>💡 I enjoy turning complex ideas into simple, clean, and functional digital experiences.</li> <li>🌍 I love collaborating on open-source projects and exploring innovative solutions for real-world challenges.</li> </ul>
 
 ---
 
